@@ -41,12 +41,13 @@ module.exports = {
             },
             processors: require('autoprefixer')(['last 8 versions'])
         },
-        // browserSync: {
-        //     proxy: "http://localhost/wpnewparcel/",
-        //     // proxy: "http://localhost/digicatt/",
-        //     // logLevel: "debug",
-        //     port: 8888
-        // },
+        browserSync: {
+            // proxy: "http://localhost/wpnewparcel/",
+            // proxy: "http://localhost/digicatt/",
+            // logLevel: "debug",
+            // open: true,
+            // watch: false
+        },
         cleancss: {
             specialComments: 0,
             removeEmpty: true
