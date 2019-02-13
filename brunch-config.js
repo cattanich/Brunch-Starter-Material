@@ -44,6 +44,7 @@ module.exports = {
         browserSync: {
             // proxy: "http://localhost/wpnewparcel/",
             // proxy: "http://localhost/digicatt/",
+            port: 8888,
             // logLevel: "debug",
             // open: true,
             // watch: false
