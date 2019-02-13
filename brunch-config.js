@@ -58,6 +58,7 @@ module.exports = {
         assetsmanager: {
             copyTo: {
                 'styles/fonts': ['node_modules/@fortawesome/fontawesome-free/webfonts/*'],
+                'styles/fonts/material': ['node_modules/material-design-icons/iconfont/*'],
                 'images': ['node_modules/preloader-js/assets/images/*']
             }
         }
