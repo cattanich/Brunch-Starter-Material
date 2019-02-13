@@ -15,14 +15,15 @@
     "bootstrap-material-design": "^4.1.1",
     "jquery": "^3.3.1",
     "jquery-scrollify": "^1.0.19",
+    "material-design-icons": "^3.0.1",
     "popper.js": "^1.14.7",
     "preloader-js": "^1.0.1"
   },
   "devDependencies": {
     "assetsmanager-brunch": "^1.8.1",
     "autoprefixer": "^9.4.7",
-    "brunch-browser-sync": "^0.1.2",
     "brunch": "^2",
+    "brunch-browser-sync": "^0.1.2",
     "clean-css-brunch": "^2.10.0",
     "postcss-brunch": "^2.10.1",
     "postcss-scss": "^2.0.0",
